@@ -1,2 +1,6 @@
-# bmnepali.com.np
-Custom Drupal Theme for www.bmnepali.com.np personal website
+### Personal Website 
+
+#### Custom Drupal Theme for personal website/blog.
+An example of this theme can be found in http://www.bmnepali.com.np
+
+
